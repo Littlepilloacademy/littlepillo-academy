@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Bilingual Alphabet Tracing Workbook (English & Spanish)",
+    "description": "The complete A–Z bilingual set. Each page shows both English and Spanish vocabulary. Perfect for dual-language classrooms — A is for Apple / A de Abeja.",
+    "price": "$4.99",
+    "language": "bilingual",
+    "emoji": "🔤",
+    "buyLabel": "Get it →",
+    "link": "https://payhip.com/b/NXqow"
+  },
+  {
+    "id": 2,
+    "title": "Alphabet Tracing Workbook A–G (Ages 4–6)",
+    "description": "Apple, Ball, Car, Dice, Eagle, Fish, Goat — fun illustrated tracing pages for the first 7 letters with stroke-guide arrows for correct formation.",
+    "price": "$2.99",
+    "language": "english",
+    "emoji": "🍎",
+    "buyLabel": "Get it →",
+    "link": "https://payhip.com/b/7fuvk"
+  },
+  {
+    "id": 3,
+    "title": "Alphabet Tracing Workbook H–N (Ages 4–6)",
+    "description": "Hat, Insect, Juice box, Kite, Lion, Monkey, Nose — engaging illustrations kids love to color alongside uppercase and lowercase tracing practice.",
+    "price": "$2.99",
+    "language": "english",
+    "emoji": "🎩",
+    "buyLabel": "Get it →",
+    "link": "https://payhip.com/b/Be1Ow"
+  },
+  {
+    "id": 4,
+    "title": "Alphabet Tracing Workbook O–T (Ages 4–6)",
+    "description": "Orange, Pencil, Queen, Rainbow, Sun, Turtle — six beautifully illustrated letters with stroke arrows and multiple practice rows.",
+    "price": "$2.99",
+    "language": "english",
+    "emoji": "🌈",
+    "buyLabel": "Get it →",
+    "link": "https://payhip.com/b/A92rY"
+  },
+  {
+    "id": 5,
+    "title": "Alfabeto en Español A–G (Edad 4–6)",
+    "description": "Abeja, Bebé, Casa, Delfín, Elefante, Flor, Gato — cuaderno de trazado y coloreo en español con ilustraciones adorables. Ideal para clases bilingües.",
+    "price": "$2.99",
+    "language": "spanish",
+    "emoji": "🐝",
+    "buyLabel": "Obtener →",
+    "link": "https://payhip.com/b/CntWh"
+  },
+  {
+    "id": 6,
+    "title": "Alfabeto en Español O–T (Edad 4–6)",
+    "description": "Oso, Perro, Queso, Ratón, Sol, Tortuga — páginas de coloreo y trazado con flechas guía. Perfecto para pre-kinder y kinder en español.",
+    "price": "$2.99",
+    "language": "spanish",
+    "emoji": "🌻",
+    "buyLabel": "Obtener →",
+    "link": "https://payhip.com/b/gXpjr"
+  }
+]
